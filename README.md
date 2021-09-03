@@ -1,7 +1,7 @@
 # Contents
 
-## [Parallel QuickSort Performance Comparison between Local Machine and IMAN1 SuperComputer](./quick_sort)
-compare the performance of sequential sorting algorithms under four different modes of execution, the sequential processing mode, a conventional multi-threading implementation, multi-threading with OpenMP Library and finally parallel processing on a super computer [IMAN1 SuperComputer](http://www.iman1.jo/iman1/)
+## [Comparing Parallel QuickSort Performance between Local Machine and IMAN1 SuperComputer](./quick_sort)
+This work presents a comparison for the performance of sequential sorting algorithms under four different modes of execution, the sequential processing mode, a conventional multi-threading implementation, multi-threading with OpenMP Library and finally parallel processing on a super computer [IMAN1 SuperComputer](http://www.iman1.jo/iman1/)
 Quick Sort algorithm was selected to run the experiments in this work. The algorithm was run using different arrays sizes and different number of processors. The results and findings were analyzed uncovering limitations as well as enhancement opportunities for sequential sorting algorithms using parallelism.
 
 ![results](./quick_sort/results/results.png)
