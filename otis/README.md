@@ -1,4 +1,4 @@
-# Optical Transpose Interconnection System Hyper Hexa Cell (OHHC)
+## Implementing Parallel Quick Sort on Optical Transpose Interconnection System (OTIS) Hyper Hexa-Cell (OHHC) Interconnection Network
 
 The code/simulation is developed using open source CodeBlocks version 13.12.
 
