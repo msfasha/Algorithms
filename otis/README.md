@@ -2,7 +2,7 @@
 
 The code/simulation is developed using open source CodeBlocks version 13.12.
 
-The project file OTIS.CBP is openned using the CodeBlocks file->open project menu.
+The project file OTIS.CBP can be edited using the CodeBlocks file -> open project menu.
 
 The project run under linux environment, only int16 (unidentified by the linux compiler should be replace with int).
 
