@@ -6,7 +6,7 @@ Quick Sort algorithm was selected to run the experiments performed by this effor
 
 ![results](./quick_sort/results/results.png)
 
-## Hyper Hexa Cell, Load balancing algorithms for the HHC Interconnection Network
+## [Hyper Hexa Cell, Load balancing algorithms for the HHC Interconnection Network](./hyper_hexa_cell)
 Present three different HHC load-balancing algorithms and evaluates them using several metrics such as Complexity, Communication Steps, Speed, and error probability. 
 
 ![results](./hyper_hexa_cell/algorithm_c/results/architecture.png)
