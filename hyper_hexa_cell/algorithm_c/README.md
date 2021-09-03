@@ -1,3 +1,5 @@
+Usage:
+
 This folder has three sub-folders, source code, results and executable folder.
 The source code has different folders, mainly the source code files in the src folder and the header files in the include folder.
 The source files are arrange into a open source CodeBlocks IDE files and directories, with HHC.cbp as a project file that is opened by CodeBlocks.
