@@ -12,7 +12,7 @@ Present a parallel Quick Sort algorithm implemented over the OTIS Hyper Hexa-Cel
 ![results](./otis_hhc_quicksort/results/results.png)
 
 ## [Implement Load Balancing Algorithm on Hyper Hexa Cell Interconnection Network](./otis_hhc_load_balance)
-Present three different HHC load-balancing algorithms and evaluates them using several metrics such as Complexity, Communication Steps, Speed, and error probability. 
+Present three different HHC load-balancing algorithms and evaluate their performance using several metrics such as Complexity, Communication Steps, Speed, and Error Probability. 
 
 ![results](./otis_hhc_load_balance/algorithm_c/results/architecture.png)
 
