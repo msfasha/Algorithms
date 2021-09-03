@@ -15,6 +15,7 @@ The project requires the pthread library to be defined in the lib path.
 
 
 ##References:
+
 [1] Kale, Vivek, and Edgar Solomonik. "Parallel sorting pattern." Proceedings of the 2010 Workshop on Parallel Programming Patterns. ACM, 2010.
 
 [2] Cormen, Thomas H., et al. Introduction to algorithms. Vol. 2. Cambridge: MIT press, 2001.
