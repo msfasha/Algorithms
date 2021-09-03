@@ -1,4 +1,4 @@
-The simulation is developed using open source CodeBlocks version 13.12.
+The code/simulation is developed using open source CodeBlocks version 13.12.
 
 The project file OTIS.CBP is openned using the CodeBlocks file->open project menu.
 
