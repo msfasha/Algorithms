@@ -1,9 +1,9 @@
-This folder contains two sub-folders, source code and executable folder.
-The source code has different folders, mainly the source files in the src folder and the header files in the include folder.
+This folder has three sub-folders, source code, results and executable folder.
+The source code has different folders, mainly the source code files in the src folder and the header files in the include folder.
 The source files are arrange into a open source CodeBlocks IDE files and directories, with HHC.cbp as a project file that is opened by CodeBlocks.
 
 The executable folder contains the execution file HHC.exe
-This file was change from .exe to .ex_ for mailing purpose, please rename it back to HHC.exe for usage.
+This file was change from .exe to .ex_ for security and data transfer purposes, rename it back to HHC.exe for usage.
 The program (HHC.exe) is a multi-threaded simulated implementation for a D-Dimension HHC internetwork load balancing algorithm.
 It was built using (MinGW) GNU C version 4.7.2 and CodeBlocks version 12.11 IDE on windows 7 Professional SP1 64-bit environment.
 
