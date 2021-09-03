@@ -1,4 +1,4 @@
-Optical Transpose Interconnection System
+# Optical Transpose Interconnection System Hyper Hexa Cell (OHHC)
 
 The code/simulation is developed using open source CodeBlocks version 13.12.
 
@@ -14,7 +14,7 @@ The project is organized into following components:
 The project requires the pthread library to be defined in the lib path.
 
 
-##References:
+## References:
 
 [1] Kale, Vivek, and Edgar Solomonik. "Parallel sorting pattern." Proceedings of the 2010 Workshop on Parallel Programming Patterns. ACM, 2010.
 
