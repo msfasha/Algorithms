@@ -13,6 +13,7 @@ The project is organized into following components:
 
 The project requires the pthread library to be defined in the lib path.
 
+[Report reference on arxiv](https://arxiv.org/pdf/2109.05176)
 
 ## References:
 
