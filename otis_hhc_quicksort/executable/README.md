@@ -1,5 +1,5 @@
 To execute the program:
-First we should make sure the execution file name is otis.exe rather than otis.ex_ (change for mailing purposes)
+First we should make sure the execution file name is otis.exe rather than otis.ex_
 
 Next
 
