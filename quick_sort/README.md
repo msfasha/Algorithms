@@ -6,6 +6,6 @@ Quick Sort algorithm was selected to run the experiments performed by this effor
 
 The results and findings were analyzed uncovering limitations as well as enhancement potentials of sequential sorting algorithms using parallelism.
 
-[References](https://arxiv.org/pdf/2109.01719)
+[Reference on arxiv](https://arxiv.org/pdf/2109.01719)
 
 
